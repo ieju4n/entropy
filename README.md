@@ -1,4 +1,6 @@
 # entropy
-Multiscale sample entropy: An approach for the analysis in the dynamics of time series of actions
+Multiscale sample entropy an approach for the analysis of the dynamics in the time series.
 
-Here you will find the scripts and codes developed to get the results of the paper "Multiscale sample entropy: An approach for the analysis of financial time series dynamics" "Entropia amostral multiescala: Uma abordagem para a análise na dinâmica de series temporais de ações" when this article be published.
+At this place, you will find the scripts developed to achieve the results of the paper “Complexity analysis of Brazilian agriculture and energy market: sugar vs ethanol.”
+
+The developed approach in this paper base on SampEn and Cross-SampEn multiscale methods, it demonstrated to be a valuable tool for analyzing financial series in recession periods since as reveal their complexity over the time. In this case, only in the recession period the ethanol stock market presented lower regularity versus the sugar stock market, possibly caused by prices fluctuations, closures of some mills, higher demand than production capacity and by other factors. Note that we selected the mentioned methods due to the time series have few observations (weekly data). Additionally, we applied the overlapping sliding window protocol to achieve complementary outcomes and improve the analyses.
