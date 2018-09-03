@@ -2,7 +2,7 @@
 #Loading libraries
 library("tictoc")
 #Configuring the path
-path="/home/entropy-master"
+path="/home/juan/entropy-master"
 setwd(path)
 print(paste("Current path > ",path,sep=""))
 #Set on the parameters
