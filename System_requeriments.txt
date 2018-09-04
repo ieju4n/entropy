@@ -39,5 +39,5 @@ day            15
 svn rev        74408                       
 language       R                           
 version.string R version 3.4.4 (2018-03-15)
-nickname       Someone to Lean On 
+
 
