@@ -1,0 +1,29 @@
+System requirements
+
+These scripts were developed and tested in the following platforms, but it is not limited to them. 
+
+1)
+"Windows"
+Release     "7 x64" 
+version     "build 7601, Service Pack 1"                  
+Machine     "x86"                    
+platform       i386-w64-mingw32            
+arch           i386                        
+os             mingw32                     
+system         i386, mingw32               
+language       R                           
+version.string R version 3.4.0 (2017-04-21)
+
+2)
+"Linux
+Release			"4.4.0-134-generic" 
+Version			"#160-Ubuntu SMP Wed Aug 15 14:58:00 UTC 2018"
+Machine			"x86_64"
+platform       x86_64-pc-linux-gnu         
+arch           x86_64                      
+os             linux-gnu                   
+system         x86_64, linux-gnu           
+language       R                           
+version.string R version 3.4.4 (2018-03-15)
+
+
